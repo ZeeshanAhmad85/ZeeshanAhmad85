@@ -1,12 +1,12 @@
-![logo](https://github.com/LearnCode801/LearnCode801/blob/main/Blue%20Geometric%20Technology%20Linkedin%20Banner%20(1).png)
+![logo]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-talha-806126234/" target="blank">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/zeeshan-ahmed-49b976257/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-talha-806126234/" height="30" width="40" />
   </a>
-  <a href="https://kaggle.com/https://www.kaggle.com/muhammadtalhaawan" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/muhammadtalhaawan" height="30" width="40" />
+  <a href="https://kaggle.com/https://www.kaggle.com/zeeshanahmad485" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/zeeshanahmad485" height="30" width="40" />
   </a>
 </p>
  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Jwt-NggFZflXNmkndLYLJA.gif" alt="logo" width="400" align="right"/>
