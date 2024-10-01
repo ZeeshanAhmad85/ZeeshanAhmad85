@@ -60,6 +60,6 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=learncode801&show_icons=true&locale=en" alt="learncode801" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZeeshanAhmad85&show_icons=true&locale=en" alt="ZeeshanAhmad85" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=learncode801&" alt="learncode801" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZeeshanAhmad85&" alt="ZeeshanAhmad85" /></p>
