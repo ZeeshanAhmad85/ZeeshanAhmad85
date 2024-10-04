@@ -1,4 +1,14 @@
 
+## Passionate about Data Science and Data Analytics
+- 🔭 I’m currently pursing Bachelors in Computer Sciences
+- 👯 I’m looking to collaborate on end-to-end Machine Learning Projects
+- 💬 Ask me about Machine Learning
+- 📫 How to reach me: zeeshan6842895@gmail.com
+- 😄 Pronouns: He/Him
+
+ <img align="right" alt="coding" width="375" height="250" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/zeeshan-ahmed-49b976257/" target="blank">
@@ -8,8 +18,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/zeeshanahmad485" height="30" width="40" />
   </a>
 </p>
- <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Jwt-NggFZflXNmkndLYLJA.gif" alt="logo" width="400" align="right"/>
-
+          
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -59,13 +68,23 @@
   </a>
 </p>
 
+- **Programming**: Python | SQL | JavaScript | C#
+- **Database**: MySQL | MongoDB
+- **Technologies**: Machine Learning | Deep Learning | RPA
+- **Cloud**: AWS SageMaker | AWS S3 | AWS EC2
+- **Version Control**: GIT | GitHub
+- **Frameworks**: Tensorflow | Keras | Scikit-Learn | Optuna
+- **Visualization**: Matplotlib | Seaborn | Plotly
+- **Data Analysis**: Pandas | Numpy | Scipy
+- **Development**: Streamlit | FastAPI | Flask | React
 
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZeeshanAhmad85&show_icons=true&locale=en&theme=radical&hide_border=false" alt="ZeeshanAhmad85" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZeeshanAhmad85&theme=radical&hide_border=false" alt="ZeeshanAhmad85" /></p>
+<p>&nbsp&nbsp&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZeeshanAhmad85&show_icons=true&locale=en&theme=gotham&hide_border=false" alt="ZeeshanAhmad85" /></p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshanAhmad85&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZeeshanAhmad85&theme=gotham&hide_border=false" alt="ZeeshanAhmad85" /></p>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshanAhmad85&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
