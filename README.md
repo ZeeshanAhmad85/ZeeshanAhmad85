@@ -1,4 +1,3 @@
-
 ## Passionate about Data Science and Data Analytics
 - 🔭 I’m currently pursing Bachelors in Computer Sciences
 - 👯 I’m looking to collaborate on end-to-end Machine Learning Projects
@@ -82,9 +81,9 @@
 
 
 
-<p>&nbsp&nbsp&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZeeshanAhmad85&show_icons=true&locale=en&theme=gotham&hide_border=false" alt="ZeeshanAhmad85" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZeeshanAhmad85&theme=gotham&hide_border=false" alt="ZeeshanAhmad85" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ZeeshanAhmad85&theme=gotham&hide_border=false" alt="ZeeshanAhmad85" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ZeeshanAhmad85&show_icons=true&locale=en&theme=gotham&hide_border=false" alt="ZeeshanAhmad85" /></p>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshanAhmad85&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
