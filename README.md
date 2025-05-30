@@ -1,5 +1,5 @@
 ## Passionate about Data Science and Data Analytics
-- 🔭 I’m currently pursing Bachelors in Computer Sciences
+- 🔭 Graduated in Computer Sciences
 - 👯 I’m looking to collaborate on end-to-end Machine Learning Projects
 - 💬 Ask me about Machine Learning
 - 📫 How to reach me: zeeshan6842895@gmail.com
